@@ -7,4 +7,4 @@ Language translator is a php based web app which is used to translate different 
 
 
 ## Introduction
-The task was to create a language translator app or web application that can translate from English to any language. There were various approach to try out this project but since I am familiar with php, html, css, js so I used these languages to create a translator app. See the website live [here](https://language-translator-abhi6722.herokuapp.com).
+The task was to create a language translator app or web application that can translate from English to any language. There were various approach to try out this project but since I am familiar with php, html, css, js so I used these languages to create a translator app.
